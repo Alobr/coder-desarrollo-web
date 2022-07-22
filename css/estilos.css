@@ -183,7 +183,17 @@ header nav ul li a {
   position: relative;
   grid-column: span 1;
   grid-row: span 1;
+
+  transform: rotateX(0deg);
+  transition: 50ms;
 }
+
+.grid-container:hover {
+  transform: perspective(600px) rotateX(2deg);
+  opacity: 1;
+}
+
+
 
 .grid-container h3 {
   position: absolute;
