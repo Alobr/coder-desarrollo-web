@@ -7,8 +7,8 @@
 <h1 style="font-weight:bold;">Tecnologias y Librerias</h1>
 <p style="font-size:17px; font-weight:bold">
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 - [Animate.css](https://animate.style/)
 
 ## Author
