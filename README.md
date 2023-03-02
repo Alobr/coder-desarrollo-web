@@ -1,15 +1,18 @@
-# <h1 style="text-align:center;font-weight:bold;">Desafío del curso de Desarrollo Web de CoderHouse</h1>
+# <h1 style="text-align:center;font-weight:bold;">CoderHouse Web Developer Course Project</h1>
 
-### <h1 style="font-weight:bold;">Acerca del Proyecto</h1>
+### <h1 style="font-weight:bold;">About the project</h1>
 
-<p style="font-size:17px; font-weight:bold">Opte por crear algo simple, una fan page de un equipo de fútbol alemán con una página de inicio que contenga noticias del club en forma de cards, una de galería que contenga imágenes a las cuales les agregue animaciones. Una página de partidos donde se puede ver información detallada de los partidos del club, una página de plantilla donde por el uso de una tabla se encuentre la plantilla del equipo con información detallada y por último una página de contacto con un pequeño formulario. En casi todas las páginas implemente grid y flexbox para darles forma y posición y para hacerlos totalmente responsive tal cual como se pedía en la consigna.</p>
+<p style="font-size:17px; font-weight:bold">For this project, we were asked to create an index page added to another 4 pages for a total of 5, with fully responsive content and implementing grid and flexbox.
 
-<h1 style="font-weight:bold;">Tecnologías y Librerías</h1>
+I opted to create something simple: a fan page of a German soccer team with a home page containing club news in the form of cards and a gallery with images to which I added animations. A matches page where you can see detailed information about the club's matches, a squad page where by using a table you can find the team squad with detailed information, and finally a contact page with a small form. In almost all the pages grid and flexbox were used to give the content position and to make them fully responsive as requested in the project requirements.</p>
+
+<h1 style="font-weight:bold;">Technologies and Libraries
+</h1>
 <p style="font-size:17px; font-weight:bold">
 
 - HTML
 - CSS
 - [Animate.css](https://animate.style/)
 
-## Autor
+## Author
 > <p>Alonso Bracho.</p>
